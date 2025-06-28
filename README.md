@@ -78,4 +78,4 @@ The machine learning model used in this project is a Random Forest Regressor. Th
 
 The web application allows users to input the location, total square footage, number of bathrooms, and number of bedrooms to get a predicted house price in Bangalore. The predicted price is displayed in lakhs.
 
-[OUTPUT]
+[OUTPUT] ![Image](https://github.com/user-attachments/assets/a164932e-7290-4d16-8b79-613d355f2b30)
